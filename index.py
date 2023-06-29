@@ -33,4 +33,4 @@ for prefix, event, value in data:
     # print(document_title) 
     # ab = itertools.chain(question_text, yes_no_answer, question_text)
     # print(list(ab))
-    i= i+1
+
